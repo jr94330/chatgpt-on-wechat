@@ -14,7 +14,7 @@
   "single_chat_prefix": [""],
   "single_chat_reply_prefix": "",
   "group_chat_prefix": [
-    "@把这里改成你在群里的昵称"
+    "@柠檬"
   ],
   "group_name_white_list": [
     "ALL_GROUP"
