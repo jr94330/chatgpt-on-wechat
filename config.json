@@ -5,7 +5,7 @@
   "xunfei_app_id": "a316880e",
   "xunfei_api_key": "b7b24ea7e2cac94cd4143132bdbaf7a4",
   "xunfei_api_secret": "MTRlYjdhMzA5ZTBmN2M2OGQ1N2FiM2Rh",
-  "uxunfei_ai_api_base": "ws(s)://spark-api.xf-yun.com/v3.5/chat",
+  "xunfei_ai_api_base": "ws(s)://spark-api.xf-yun.com/v3.5/chat",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
